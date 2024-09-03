@@ -29,6 +29,19 @@ Explain the goal of the project: "The primary objective of this project is to au
 ![Screenshot 2024-09-03 115920](https://github.com/user-attachments/assets/548ea646-a0b8-4ccd-96db-eecfee6f1a9e)<br><br>
 
 
+# The Game
+- Code for a game is hosted in GitHub. We create an S3 bucket for static website hosting, then create a continuous deployment pipeline (using AWS Code Pipeline) to automatically deploy the code whenever changes are made.
+- A simple memory matching game. The user clicks two cards (images of memes) to try to match them. If there's a match, the cards disappear from the board. If there's no match, the cards are flipped back to their blank side so the user can try again.
+- The game consists of HTML, CSS and JavaScript.
+
+## Ideas for additional features:
+- A scoring mechanism
+- A timer
+- Add additional cards
+- Multi-player capabilities so you can compare scores<br><br>
+
+
+
 # Step 1 - Setting Up the Game Repository
 ## Create a GitHub Repository:
 - "Start by creating a new repository on GitHub where the game’s source code will reside. Ensure that the repository is public or properly configured if it’s private."
