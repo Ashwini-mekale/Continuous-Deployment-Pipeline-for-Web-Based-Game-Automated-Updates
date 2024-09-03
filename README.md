@@ -26,6 +26,8 @@ Explain the goal of the project: "The primary objective of this project is to au
 
 <br><br>
 
+![Screenshot 2024-09-03 115920](https://github.com/user-attachments/assets/548ea646-a0b8-4ccd-96db-eecfee6f1a9e)<br><br>
+
 
 # Step 1 - Setting Up the Game Repository
 ## Create a GitHub Repository:
