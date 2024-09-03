@@ -54,6 +54,10 @@ Explain the goal of the project: "The primary objective of this project is to au
 - Visuals: Screenshot of a sample GitHub repository structure.
 
 <br><br>
+![Screenshot 2024-09-03 160322](https://github.com/user-attachments/assets/c0aaf757-3378-4246-ad81-610610a58d88)
+<br><br>
+
+
 
 
 # Step 2 - Configuring AWS S3
@@ -68,6 +72,16 @@ Explain the goal of the project: "The primary objective of this project is to au
 Visuals: Provide a screenshot of the S3 bucket settings, highlighting the static website hosting and permissions sections.
 
 <br><br>
+![Screenshot 2024-09-03 160906](https://github.com/user-attachments/assets/614d99af-49ef-414d-ab0c-dabc68bbcef7)
+
+<br><br>
+
+![Screenshot 2024-09-03 160757](https://github.com/user-attachments/assets/90ffd96b-1f0b-4c2b-8d4d-0d580ae33c31)
+
+<br><br>
+
+![Screenshot 2024-09-03 161016](https://github.com/user-attachments/assets/57a6526a-cacb-4482-ab55-2291ab3c1a10)
+
 
 
 # Step 3 - Setting Up GitHub Actions
@@ -98,6 +112,20 @@ Visuals: Provide a screenshot of the S3 bucket settings, highlighting the static
 - Visuals: Flowchart showing the stages in CodePipeline.
 
 <br><br>
+![Screenshot 2024-09-03 162012](https://github.com/user-attachments/assets/625617c5-3ca7-478d-a2a4-fb17cdfd8a0e)
+
+<br><br>
+
+
+![Screenshot 2024-09-03 162021](https://github.com/user-attachments/assets/811c8571-f292-46da-823f-651d90da0b89)
+
+<br><br>
+
+![Screenshot 2024-09-03 162030](https://github.com/user-attachments/assets/b5a50aef-1278-420b-9d9d-87a08a58e66d)
+
+<br><br>
+
+
 
 
 # Step 5 - Testing the Deployment
@@ -112,6 +140,26 @@ Visuals: Provide a screenshot of the S3 bucket settings, highlighting the static
 - Visuals: Screenshot of a successful deployment pipeline run and the updated S3 bucket content.
 
 <br><br>
+
+![Screenshot 2024-09-03 162519](https://github.com/user-attachments/assets/d53daa5f-acd4-4010-a6d8-d0a4a3c70538)
+
+<br><br>
+
+![Screenshot 2024-09-03 163008](https://github.com/user-attachments/assets/5e24bd8c-3f64-4396-9452-48db81193420)
+
+<br><br>
+
+![Screenshot 2024-09-03 163029](https://github.com/user-attachments/assets/f849ab44-daf1-4245-8b80-adb798bca64a)
+
+<br><br>
+
+![Screenshot 2024-09-03 163331](https://github.com/user-attachments/assets/33dc87af-6185-4918-804e-dda912243a9d)
+
+<br><br>
+
+
+
+
 
 
 # Challenges and Solutions
